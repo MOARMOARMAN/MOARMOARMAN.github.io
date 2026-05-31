@@ -40,9 +40,10 @@
      .split-box:has(.panel:hover) .panel:not(:hover) {
        width: 0%;
      }
-      .wrapper, .container, main {
-        max-width: 1000px !important; /* Forces it wider (default is usually ~600px-800px) */
-        width: 90% !important;        /* Ensures it stays responsive on smaller screens */
+      section {
+        width: calc(100% - 320px) !important; /* Forces the portfolio side to take up ALL remaining space */
+        max-width: 750px !important;          /* Gives your image cards plenty of breathing room */
+        float: none !important;               /* Fixes older fallback positioning rules */
       }
    </style>
    <!--[if lt IE 9]>
