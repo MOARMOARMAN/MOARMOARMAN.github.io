@@ -40,6 +40,41 @@
      .split-box:has(.panel:hover) .panel:not(:hover) {
        width: 0%;
      }
+      /* Convert the main wrapper into a modern flexbox row layout */
+      .wrapper {
+        max-width: 1050px !important; /* Opens up the total page width */
+        width: 95% !important;
+        display: flex !important;
+        flex-direction: row !important;
+        align-items: flex-start !important;
+        gap: 50px !important;         /* A clean, consistent gap between your bio and portfolio */
+      }
+      
+      /* Stabilize the left profile sidebar */
+      header {
+        width: 240px !important;
+        flex-shrink: 0 !important;
+        float: none !important;       /* Kills the old float mechanism causing the overlap */
+        position: static !important;
+      }
+      
+      /* Allow the portfolio section to expand beautifully into the extra space */
+      section {
+        flex-grow: 1 !important;      /* Forces it to fill all remaining horizontal room */
+        width: auto !important;
+        float: none !important;       /* Kills the old float mechanism causing the overlap */
+      }
+      
+      /* Quick fix for mobile responsiveness so things stack neatly on phones */
+      @media screen and (max-width: 768px) {
+        .wrapper {
+          flex-direction: column !important;
+          gap: 20px !important;
+        }
+        header, section {
+          width: 100% !important;
+        }
+      }
    </style>
    <!--[if lt IE 9]>
    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
