@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[CS2 Steam Community Market Scraper and Analysis Bot](/CS2_SCM_Scraper)
+[CS2 Steam Community Market Scraper and Analysis Bot](/Cs2_Skin_Scraper)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
