@@ -20,7 +20,7 @@
      .split-box {
        display: flex;
        width: 100%;
-       height: 400px;
+       height: 200px;
        overflow: hidden;
      }
      .panel {
@@ -40,6 +40,10 @@
      .split-box:has(.panel:hover) .panel:not(:hover) {
        width: 0%;
      }
+      .wrapper, .container, main {
+        max-width: 1000px !important; /* Forces it wider (default is usually ~600px-800px) */
+        width: 90% !important;        /* Ensures it stays responsive on smaller screens */
+      }
    </style>
    <!--[if lt IE 9]>
    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
