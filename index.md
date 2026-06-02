@@ -1,7 +1,8 @@
 ## Projects
 
 ---
-### [CS2 Steam Community Market Scraper and Analysis Bot](/Cs2-Skin-Scraper) `Python` `Gemini API` `Chrome Developer Tools`
+### [CS2 Steam Community Market Scraper and Analysis Bot](/Cs2-Skin-Scraper) 
+### `Python` | `Gemini API` | `Chrome Developer Tools`
 <div class="project-card">
   <img src="/images/CS2_1.png" alt="CS2 Scraping Bot" class="project-img">
   
