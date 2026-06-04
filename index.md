@@ -2,7 +2,7 @@
 
 ---
 ### [CS2 Steam Community Market Scraper and Analysis Bot](/Cs2-Skin-Scraper) 
-### `Python` | `SQL` | `Gemini API` | `Chrome Developer Tools`
+### `Python` | `SQLite` | `Gemini API` | `Git`
 <div class="project-card">
   <img src="/images/CS2_1.png" alt="CS2 Scraping Bot" class="project-img">
   
