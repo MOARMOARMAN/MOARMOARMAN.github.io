@@ -28,3 +28,12 @@
     <a href="https://github.com/Jasper0122/CLI-Anything-Arcgis-Pro" class="project-btn" target="_blank">View Repo</a>
   </div>
 </div>
+
+<br>
+<br>
+
+## Just For Fun
+---
+- Valorant: Immortal 2 (No Headphones)
+- CS2 Skin Trading: ~$2,000+ profit
+- Dream Car: Corvette C7 ZR1 (Working on it 😭)
