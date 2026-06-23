@@ -13,6 +13,20 @@
 </div>
 
 <br>
+
+### [Product Matching Pipeline](/Product-Matching-Pipeline) 
+#### **Python** | **NLP** | **Entity Resolution** | **TF-IDF** | **Fuzzy Matching** | **LLMs** | **System Design**
+<div class="project-card">
+  <img src="/images/pipeline.png" alt="Product Matching Pipeline" class="project-img">
+  
+  <div class="project-overlay">
+    <h3 class="project-title">Grocery Product Matching Pipeline</h3>
+    <p class="project-desc">A Python Pipeline which matches equivalent products across two heterogeneous retailer catalogs.</p>
+    <a href="https://moarmoarman.github.io/Product-Matching-Pipeline/" class="project-btn" target="_blank">View Project</a>
+  </div>
+</div>
+
+<br>
 <br>
 
 ## Open Source Contributions
