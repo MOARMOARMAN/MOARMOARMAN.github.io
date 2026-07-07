@@ -21,7 +21,7 @@
   
   <div class="project-overlay">
     <h3 class="project-title">Grocery Product Matching Pipeline</h3>
-    <p class="project-desc">A Python Pipeline which matches equivalent products across two heterogeneous retailer catalogs.</p>
+    <p class="project-desc">Built a hybrid statistical + LLM matching pipeline that resolves 230K product records against a 55K-item catalog, then wrapped it in a deployed FastAPI service with an explicit column-mapping contract instead of fragile auto-detection.</p>
     <a href="https://moarmoarman.github.io/Product-Matching-Pipeline/" class="project-btn" target="_blank">View Project</a>
   </div>
 </div>
