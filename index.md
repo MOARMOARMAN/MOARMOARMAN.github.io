@@ -1,7 +1,6 @@
 ## My Projects
 ---
 ### [CS2 Steam Community Market Scraper and Analysis Bot](/Cs2-Skin-Scraper) 
-Python · SQLite (WAL mode) · ThreadPoolExecutor · tenacity (retry/backoff) · Plotly · Discord webhooks
 #### **Python** | **SQLite** | **Concurrent Programming** | **Tenacity** | **Plotly** | **Discord Webhooks** | **Statistical Modeling**
 <div class="project-card">
   <img src="/images/CS2_1.png" alt="CS2 Scraping Bot" class="project-img">
