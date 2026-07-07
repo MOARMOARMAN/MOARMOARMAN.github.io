@@ -15,7 +15,7 @@
 <br>
 
 ### [Product Matching Pipeline](/Product-Matching-Pipeline) 
-#### **Python** | **NLP** | **Entity Resolution** | **TF-IDF** | **Fuzzy Matching** | **LLMs API** | **System Design**
+#### **Python** | **FastAPI** | **Docker** | **scikit-learn** | **Pandas** | **LLM API Integration** | **RapidFuzz** | **Render**
 <div class="project-card">
   <img src="/images/pipeline.png" alt="Product Matching Pipeline" class="project-img">
   
